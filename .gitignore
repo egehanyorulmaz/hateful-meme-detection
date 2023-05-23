@@ -160,6 +160,8 @@ cython_debug/
 .idea/
 
 data_raw/
+data_preprocessed/
 examples/
 
 .DS_STORE
+
