@@ -27,5 +27,5 @@ This project aims to develop a model that can accurately detect hate speech in m
 - Enhance context modeling between text and images
 
 ## Reference
-- [Dataset source]()
+- [Dataset source](https://ai.meta.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech/)
 - Details on methodology and experiments available in [this paper]()
